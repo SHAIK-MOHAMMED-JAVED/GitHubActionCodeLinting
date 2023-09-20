@@ -1,5 +1,2 @@
-const str = "Hello World!!!"
-console.log
-(
-    "Hello World"
-)
+const str = "Hello World!!!";
+console.log("Hello World", str);
